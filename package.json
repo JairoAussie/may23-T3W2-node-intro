@@ -1,0 +1,13 @@
+{
+  "name": "may23-t3w2-node-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "someRandomScript": "echo \" Hello everyone \" ",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
